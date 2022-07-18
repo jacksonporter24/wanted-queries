@@ -1,0 +1,7 @@
+Yes, the 2 high level, 2 low level, and 1 smoke/sanity test are with Trello. 
+
+To review: The smoke/sanity test is an overview of the whole site. Are there any glaring or bugs that happen when just exploring the site? 
+
+High level tests are for broad tests (ex. Does the buttons in the nav bar take me to the correct page?). 
+
+Low level tests are for testing specific code functionality (ex. Does clicking on the search bar and entering an item populate the expected results?).
